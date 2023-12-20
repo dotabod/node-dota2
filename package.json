@@ -5,7 +5,7 @@
     "deferred": "^0.7.10",
     "long": "^4.0.0",
     "merge": "^1.2.1",
-    "steam": "^1.4.1",
+    "steam": "https://github.com/dotabod/node-steam#head=master",
     "steam-resources": "https://github.com/dotabod/node-steam-resources#head=master",
     "winston": "^3.2.1"
   },
